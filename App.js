@@ -21,4 +21,13 @@ class ModuleInfo extends React.Component {
     }
 }
 
-export default ModuleInfo;
+
+
+
+
+
+
+
+
+
+export default ;
